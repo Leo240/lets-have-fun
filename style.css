@@ -1,0 +1,17 @@
+body{
+	background: #bbb;
+}
+div{
+	width: 600px;
+	height: 400px;
+	border-radius: 5px;
+	background: #DDD;
+	margin: 100px auto;
+	position: relative;
+	box-shadow: 5px 5px 8px;
+}
+div h1{	
+	position: absolute;
+	top: 35%;
+	left: 40%;
+}
